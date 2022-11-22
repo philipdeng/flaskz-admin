@@ -1,4 +1,6 @@
 app/.DS_Store
 .DS_Store
 .DS_Store
-venv1
+venv
+__pycache__
+.idea
